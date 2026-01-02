@@ -90,6 +90,3 @@ Open your browser and navigate to the frontend URL to start reading!
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-[MIT](LICENSE)
