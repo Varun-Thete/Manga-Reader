@@ -1,0 +1,18 @@
+{
+  "name": "manga-reader-backend",
+  "version": "1.0.0",
+  "description": "Backend for the web-based CBZ manga reader.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "glob": "^10.3.10",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6",
+    "yauzl": "^3.1.1"
+  }
+}
